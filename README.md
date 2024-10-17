@@ -1,4 +1,4 @@
-# Welcome! I'm Raul and i love to code! </> !!
+# Hi i'm Raul !!
 
 <div align="center">
   <a href="https://github.com/devraulalmeida7">
